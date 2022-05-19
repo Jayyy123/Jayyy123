@@ -4,7 +4,7 @@ src="./images/text.gif" height="72" width="100%" />
 <h1 align="center"><img
 src="./images/welcome-home-anime.gif" height="302" width="300"/><br>Hi there, I'm Joseph Ofili </h1>
 <p> I am a fullstack web and mobile developer from Lagos Nigeria 🇳🇬</p>
-<h3> Things I code with include </h3>
+<h3> Things I code with and technologies I work with include </h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
@@ -26,7 +26,7 @@ src="./images/welcome-home-anime.gif" height="302" width="300"/><br>Hi there, I'
 
 [![Joseph's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jayyy123)](https://github.com/anuraghazra/github-readme-stats)
 
-<img src="./images/wwelc.gif">
+<img src="./images/wwelc.gif" width="100%" align="center">
 
 <h3>Feel free to reach out to me on any of the following</h3>
 <p><a href="https://twitter.com/JosephOfili3"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/joseph-ofili-b102801a4/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.instagram.com/ofilijoseph/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a> <a href="https://medium.com/@josephofilii"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25></a></p>
