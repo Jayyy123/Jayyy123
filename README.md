@@ -1,5 +1,5 @@
 <img
-src="https://loading.io/asset/573326" height="32" />
+src="./text.gif" height="32" width="100%" />
 <hr>
 <h1 align="center">Hi there, I'm Joseph Ofili <br><img
 src="./images/welcome-home-anime.gif" height="102" /></h1>
