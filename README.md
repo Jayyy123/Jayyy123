@@ -2,7 +2,7 @@
 src="./images/text.gif" height="72" width="100%" />
 <hr>
 <h1 align="center"><img
-src="./images/welcome-home-anime.gif" height="102" width="60%"/><br>Hi there, I'm Joseph Ofili </h1>
+src="./images/welcome-home-anime.gif" height="102" width="400"/><br>Hi there, I'm Joseph Ofili </h1>
 <p> I am a fullstack web and mobile developer from Lagos Nigeria 🇳🇬</p>
 <h3> Things I code with include </h3>
 <p>
@@ -23,7 +23,8 @@ src="./images/welcome-home-anime.gif" height="102" width="60%"/><br>Hi there, I'
   <img alt="PyPI - Django Version" src="https://img.shields.io/pypi/djversions/djangorestframework">
 </p>
 <h3> My current github stats are; </h3>
-<p>[![Joseph's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jayyy123)](https://github.com/anuraghazra/github-readme-stats)</p>
+
+[![Joseph's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jayyy123)](https://github.com/anuraghazra/github-readme-stats)
 
 <img src="https://i.imgur.com/RK1kR8g.png" alt="Mokkapps GitHub README header image">
 <h3>Feel free to reach out to me on any of the following</h3>
@@ -33,9 +34,9 @@ src="./images/welcome-home-anime.gif" height="102" width="60%"/><br>Hi there, I'
 <h3>Visitor Count</h3>
 
 <img align="center"
-src="./images/welcome-aot.gif" height="92" width="80%" />
+src="./images/welcome-aot.gif" height="202" width="400" />
 
-<p>![Joseph's Visitors](https://komarev.com/ghpvc/?username=your-github-Jayyy123&color=green)</p>
+![Joseph's Visitors](https://komarev.com/ghpvc/?username=Jayyy123&color=green)
 
 <!--
 **Jayyy123/Jayyy123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
