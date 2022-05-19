@@ -2,7 +2,7 @@
 src="./images/text.gif" height="72" width="100%" />
 <hr>
 <h1 align="center"><img
-src="./images/welcome-home-anime.gif" height="102" /><br>Hi there, I'm Joseph Ofili </h1>
+src="./images/welcome-home-anime.gif" height="102" width="60%"/><br>Hi there, I'm Joseph Ofili </h1>
 <p> I am a fullstack web and mobile developer from Lagos Nigeria 🇳🇬</p>
 <h3> Things I code with include </h3>
 <p>
@@ -20,7 +20,22 @@ src="./images/welcome-home-anime.gif" height="102" /><br>Hi there, I'm Joseph Of
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+  <img alt="PyPI - Django Version" src="https://img.shields.io/pypi/djversions/djangorestframework">
 </p>
+<h3> My current github stats are; </h3>
+<p>[![Joseph's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jayyy123)](https://github.com/anuraghazra/github-readme-stats)</p>
+
+<img src="https://i.imgur.com/RK1kR8g.png" alt="Mokkapps GitHub README header image">
+<h3>Feel free to reach out to me on any of the following</h3>
+<p><a href="https://twitter.com/JosephOfili3"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/joseph-ofili-b102801a4/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.instagram.com/ofilijoseph/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a> <a href="https://medium.com/@josephofilii"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25></a></p>
+<p><a href="#">➡️ Check out my website</a></p>
+
+<h3>Visitor Count</h3>
+
+<img align="center"
+src="./images/welcome-aot.gif" height="92" width="80%" />
+
+<p>![Joseph's Visitors](https://komarev.com/ghpvc/?username=your-github-Jayyy123&color=green)</p>
 
 <!--
 **Jayyy123/Jayyy123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
