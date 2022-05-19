@@ -3,6 +3,10 @@ src="./images/text.gif" height="72" width="100%" />
 <hr>
 <h1 align="center"><img
 src="./images/welcome-home-anime.gif" height="302" width="300"/><br>Hi there, I'm Joseph Ofili </h1>
+
+Total hours spent coding this year:
+
+[![wakatime](https://wakatime.com/badge/user/1a29077c-352e-4138-ae85-58f8b053a010.svg)](https://wakatime.com/@1a29077c-352e-4138-ae85-58f8b053a010)
 <p> I am a fullstack web and mobile developer from Lagos Nigeria 🇳🇬</p>
 <h3> Things I code with and technologies I work with include </h3>
 <p>
@@ -26,8 +30,6 @@ src="./images/welcome-home-anime.gif" height="302" width="300"/><br>Hi there, I'
 <h3> My Language stats </h3>
 
 <img src="https://wakatime.com/share/@Jokeseph/1e5680cc-a3c9-4f3e-9d83-9f8206c55d9b.svg"></img>
-
-[![wakatime](https://wakatime.com/badge/user/1a29077c-352e-4138-ae85-58f8b053a010.svg)](https://wakatime.com/@1a29077c-352e-4138-ae85-58f8b053a010)
 
 <h3> My current github stats are; </h3>
 
