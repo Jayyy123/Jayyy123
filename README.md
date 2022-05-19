@@ -25,7 +25,7 @@ src="./images/welcome-home-anime.gif" height="302" width="300"/><br>Hi there, I'
 
 <h3> My Language stats </h3>
 
-<img src="https://wakatime.com/share/@Jokeseph/1e5680cc-a3c9-4f3e-9d83-9f8206c55d9b.svg"></img>
+<img src="https://wakatime.com/share/@Jokeseph/1e5680cc-a3c9-4f3e-9d83-9f8206c55d9b.svg" width="400" height="400"></img>
 
 [![wakatime](https://wakatime.com/badge/user/1a29077c-352e-4138-ae85-58f8b053a010/project/a2633264-c45e-4c43-9cfd-0e9f3397c9a1.svg)](https://wakatime.com/badge/user/1a29077c-352e-4138-ae85-58f8b053a010/project/a2633264-c45e-4c43-9cfd-0e9f3397c9a1)
 
