@@ -2,7 +2,7 @@
 src="./images/text.gif" height="72" width="100%" />
 <hr>
 <h1 align="center"><img
-src="./images/welcome-home-anime.gif" height="102" width="400"/><br>Hi there, I'm Joseph Ofili </h1>
+src="./images/welcome-home-anime.gif" height="302" width="300"/><br>Hi there, I'm Joseph Ofili </h1>
 <p> I am a fullstack web and mobile developer from Lagos Nigeria 🇳🇬</p>
 <h3> Things I code with include </h3>
 <p>
