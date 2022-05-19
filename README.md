@@ -1,4 +1,9 @@
-### Hi there 👋
+![](https://loading.io/asset/573326)
+<br>
+<h1 align="center">Hi there, I'm Joseph Ofili<img
+src="./images/welcome-home-anime.gif" height="32" /></h1>
+
+<br />
 
 <!--
 **Jayyy123/Jayyy123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
