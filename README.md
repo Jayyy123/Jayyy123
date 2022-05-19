@@ -26,7 +26,8 @@ src="./images/welcome-home-anime.gif" height="102" width="400"/><br>Hi there, I'
 
 [![Joseph's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jayyy123)](https://github.com/anuraghazra/github-readme-stats)
 
-<img src="https://i.imgur.com/RK1kR8g.png" alt="Mokkapps GitHub README header image">
+<img src="./images/wwelc.gif">
+
 <h3>Feel free to reach out to me on any of the following</h3>
 <p><a href="https://twitter.com/JosephOfili3"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/joseph-ofili-b102801a4/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.instagram.com/ofilijoseph/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a> <a href="https://medium.com/@josephofilii"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25></a></p>
 <p><a href="#">➡️ Check out my website</a></p>
