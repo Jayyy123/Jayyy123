@@ -1,7 +1,8 @@
-![](https://loading.io/asset/573326)
-<br>
-<h1 align="center">Hi there, I'm Joseph Ofili<img
-src="./images/welcome-home-anime.gif" height="32" /></h1>
+<img
+src="https://loading.io/asset/573326" height="32" />
+<hr>
+<h1 align="center">Hi there, I'm Joseph Ofili <br><img
+src="./images/welcome-home-anime.gif" height="102" /></h1>
 
 <br />
 
