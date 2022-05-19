@@ -1,8 +1,8 @@
 <img
-src="./text.gif" height="32" width="100%" />
+src="./images/text.gif" height="32" width="100%" />
 <hr>
-<h1 align="center">Hi there, I'm Joseph Ofili <br><img
-src="./images/welcome-home-anime.gif" height="102" /></h1>
+<h1 align="center"><img
+src="./images/welcome-home-anime.gif" height="102" /><br>Hi there, I'm Joseph Ofili </h1>
 
 <br />
 
