@@ -39,7 +39,7 @@ Total hours spent coding this year:
 
 <h3>Feel free to reach out to me on any of the following</h3>
 <p><a href="https://twitter.com/JosephOfili3"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/joseph-ofili-b102801a4/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.instagram.com/ofilijoseph/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a> <a href="https://medium.com/@josephofilii"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25></a></p>
-<p><a href="https://62aa5e61e3e65a17ba2577aa--elegant-cannoli-113b1a.netlify.app/">➡️ Check out my website</a></p>
+<p><a href="https://josephs-portfolio.netlify.app/">➡️ Check out my website</a></p>
 
 <h3>Visitor Count</h3>
 
