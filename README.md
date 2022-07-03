@@ -35,6 +35,8 @@ Total hours spent coding this year:
 
 <h3> My current github stats are; </h3>
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Jayyy123)](https://git.io/streak-stats)
+
 [![Joseph's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jayyy123)](https://github.com/anuraghazra/github-readme-stats)
 
 <img src="./images/wwelc.gif" width="100%" align="center">
