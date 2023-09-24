@@ -1,7 +1,7 @@
 <img align="center"
 src="./images/text.gif" height="72" width="100%" />
 <hr>
-<p><a href="https://josephs-portfolio.netlify.app/">➡️ Check out my website</a></p>
+<p><a href="https://josephofili.live">➡️ Check out my website</a></p>
 <hr>
 <h1 align="center"><img
 src="./images/welcome-home-anime.gif" height="302" width="300"/><br>Hi there, I'm Joseph Ofili </h1>
